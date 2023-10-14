@@ -3,7 +3,7 @@ The Alfred workflow for [ClashX](https://github.com/yichengchen/clashX)
 
 # Thanks
 
-This project is Forked from [clashx-alfre](https://github.com/mikelxc/clashx-alfred)
+This project is Forked from [clashx-alfred](https://github.com/mikelxc/clashx-alfred)
 
 
 ## Important notes:
