@@ -1,5 +1,10 @@
-# clashx-alfred
+# clashx-pro-alfred
 The Alfred workflow for [ClashX](https://github.com/yichengchen/clashX)
+
+# Thanks
+
+This project is Forked from [clashx-alfre](https://github.com/mikelxc/clashx-alfred)
+
 
 ## Important notes:
 This script uses System Events to call ClashX. Please grant accessibility permissions to ClashX before using this workflow.
